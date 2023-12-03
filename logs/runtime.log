@@ -1,7 +1,4 @@
-2023-12-03 06:24:25 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post1', 'role': 'EpicPlayer', 'headless': True}
-2023-12-03 06:24:34 | INFO    | __main__:claim_epic_games:97 | Try to flush cookie - {'task': 'claim_epic_games'}
-2023-12-03 06:24:38 | SUCCESS    | epic_games.agent:_login:253 | login - {'result': 'Successfully refreshed tokens'}
-2023-12-03 06:24:49 | SUCCESS    | epic_games.agent:flush_token:280 | flush_token - {'path': PosixPath('/home/runner/work/MyEpic/MyEpic/epic/user_data_dir/epic-games@574222018/ctx_cookie.json')}
-2023-12-03 06:24:49 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Mighty Fight Federation', 'url': 'https://store.epicgames.com/en-US/p/mighty-fight-federation'}
-2023-12-03 06:24:49 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Jitsu Squad', 'url': 'https://store.epicgames.com/en-US/p/jitsu-squad-af3f2f'}
-2023-12-03 06:24:49 | SUCCESS    | __main__:claim_epic_games:108 | Pass claim task - {'reason': 'All free games are in my library', 'stage': 'claim-games'}
+2023-12-04 06:25:00 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post1', 'role': 'EpicPlayer', 'headless': True}
+2023-12-04 06:25:07 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Mighty Fight Federation', 'url': 'https://store.epicgames.com/en-US/p/mighty-fight-federation'}
+2023-12-04 06:25:07 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Jitsu Squad', 'url': 'https://store.epicgames.com/en-US/p/jitsu-squad-af3f2f'}
+2023-12-04 06:25:07 | SUCCESS    | __main__:prelude_with_context:85 | Pass claim task - {'reason': 'All free games are in my library', 'stage': 'context-prelude'}
