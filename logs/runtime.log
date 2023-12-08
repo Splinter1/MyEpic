@@ -1,26 +1,25 @@
-2023-12-08 06:27:05 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post2', 'role': 'EpicPlayer', 'headless': True}
-2023-12-08 06:27:10 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'GigaBash', 'url': 'https://store.epicgames.com/en-US/p/gigabash'}
-2023-12-08 06:27:10 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Predecessor', 'url': 'https://store.epicgames.com/en-US/p/predecessor'}
-2023-12-08 06:27:15 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/gigabash'}
-2023-12-08 06:27:19 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/predecessor'}
-2023-12-08 06:27:28 | INFO    | epic_games.agent:claim_weekly_games:326 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
-2023-12-08 06:27:30 | INFO    | epic_games.agent:claim_weekly_games:328 | claim_weekly_games - {'action': 'click payment button'}
-2023-12-08 06:27:35 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_parse_label:241 | get task - {'prompt': 'Pleаse find and click on the letter Κ in the imаge below.'}
-2023-12-08 06:27:40 | DEBUG    | epic_games.agent:insert_challenge:106 | task done - {'sattus': 'success'}
-2023-12-08 06:28:12 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/gigabash'}
-2023-12-08 06:28:18 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/predecessor'}
-2023-12-08 06:28:27 | INFO    | epic_games.agent:claim_weekly_games:326 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
-2023-12-08 06:28:29 | INFO    | epic_games.agent:claim_weekly_games:328 | claim_weekly_games - {'action': 'click payment button'}
-2023-12-08 06:28:34 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_parse_label:241 | get task - {'prompt': 'Please find and click on the letter K in the image below.'}
-2023-12-08 06:28:39 | DEBUG    | epic_games.agent:insert_challenge:106 | task done - {'sattus': 'success'}
-2023-12-08 06:29:11 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/gigabash'}
-2023-12-08 06:29:16 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/predecessor'}
-2023-12-08 06:29:25 | INFO    | epic_games.agent:claim_weekly_games:326 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
-2023-12-08 06:29:27 | INFO    | epic_games.agent:claim_weekly_games:328 | claim_weekly_games - {'action': 'click payment button'}
-2023-12-08 06:29:32 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_parse_label:241 | get task - {'prompt': 'Please сlick οn the object that appears only once.'}
-2023-12-08 06:29:39 | DEBUG    | hcaptcha_challenger.agents.playwright.control:lookup_unique_object:333 | handle task - {'select_model': 'appears_only_once_2309_yolov8s-seg.onnx', 'trident': 'find_unique_object', 'ash': 'please click on the object that appears only once default'}
-2023-12-08 06:29:43 | DEBUG    | epic_games.agent:insert_challenge:106 | task done - {'sattus': 'success'}
-2023-12-08 06:30:14 | ERROR    | __main__:run:158 | An error has been caught in function 'run', process 'MainProcess' (3750), thread 'MainThread' (140437063613312): - {}
+2023-12-09 06:26:37 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post2', 'role': 'EpicPlayer', 'headless': True}
+2023-12-09 06:26:44 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'GigaBash', 'url': 'https://store.epicgames.com/en-US/p/gigabash'}
+2023-12-09 06:26:44 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Predecessor', 'url': 'https://store.epicgames.com/en-US/p/predecessor'}
+2023-12-09 06:26:50 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/gigabash'}
+2023-12-09 06:26:52 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/predecessor'}
+2023-12-09 06:27:02 | INFO    | epic_games.agent:claim_weekly_games:326 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
+2023-12-09 06:27:04 | INFO    | epic_games.agent:claim_weekly_games:328 | claim_weekly_games - {'action': 'click payment button'}
+2023-12-09 06:27:09 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_parse_label:241 | get task - {'prompt': 'Pleаse find and cliсk on the letter K in the image below.'}
+2023-12-09 06:27:14 | DEBUG    | epic_games.agent:insert_challenge:106 | task done - {'sattus': 'success'}
+2023-12-09 06:27:47 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/gigabash'}
+2023-12-09 06:27:52 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/predecessor'}
+2023-12-09 06:28:01 | INFO    | epic_games.agent:claim_weekly_games:326 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
+2023-12-09 06:28:04 | INFO    | epic_games.agent:claim_weekly_games:328 | claim_weekly_games - {'action': 'click payment button'}
+2023-12-09 06:28:09 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_parse_label:241 | get task - {'prompt': 'Please find and click on the letter K in the image below.'}
+2023-12-09 06:28:14 | DEBUG    | epic_games.agent:insert_challenge:106 | task done - {'sattus': 'success'}
+2023-12-09 06:28:46 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/gigabash'}
+2023-12-09 06:28:51 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/predecessor'}
+2023-12-09 06:29:01 | INFO    | epic_games.agent:claim_weekly_games:326 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
+2023-12-09 06:29:03 | INFO    | epic_games.agent:claim_weekly_games:328 | claim_weekly_games - {'action': 'click payment button'}
+2023-12-09 06:29:08 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_parse_label:241 | get task - {'prompt': 'Plеase fіnd and click on the letter W in the image below.'}
+2023-12-09 06:29:15 | DEBUG    | epic_games.agent:insert_challenge:106 | task done - {'sattus': 'success'}
+2023-12-09 06:29:47 | ERROR    | __main__:run:158 | An error has been caught in function 'run', process 'MainProcess' (3765), thread 'MainThread' (140327577406336): - {}
 Traceback (most recent call last):
   File "/home/runner/work/MyEpic/MyEpic/epic/src/claim.py", line 151, in stash
     await self.claim_epic_games(context)
