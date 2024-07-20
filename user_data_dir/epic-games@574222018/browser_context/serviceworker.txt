@@ -11,3 +11,15 @@ true
 0
 true
 #
+
+https://store.epicgames.com/
+https://store.epicgames.com/epic-service-worker.js
+true
+{f886d963-5dda-4e37-aa68-6659f5e2d061}
+0
+1721514638889394
+1721514638891505
+1721514637848133
+1
+true
+#
